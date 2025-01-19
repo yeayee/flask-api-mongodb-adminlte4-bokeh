@@ -1,7 +1,7 @@
 # flask-api-mongodb-adminlte4-bokeh
 
 
-**笔者已经将adminlte4与flask、MongoDB整合，耗费一周时间，可以合作，提供代码。**
+**笔者耗费一周时间，已经将adminlte4与flask、MongoDB整合，可以合作，提供代码。**
 
 **联系方式：微信：civilpy**
 
